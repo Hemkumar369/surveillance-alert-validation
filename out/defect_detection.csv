@@ -1,0 +1,5 @@
+defect_type,injected,detected,false_positives
+duplicate_trade_id,7,7,0
+missing_trade,8,8,0
+quantity_mismatch,8,8,0
+TOTAL,23,23,0

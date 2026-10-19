@@ -1,0 +1,48 @@
+pattern,symbol,in_v1,in_v2,is_true,change,verdict
+wash_trade,WASH09,True,False,True,removed_in_v2,MISSED true case (trade-off)
+wash_trade,WASH10,True,False,True,removed_in_v2,MISSED true case (trade-off)
+wash_trade,WASH11,True,False,True,removed_in_v2,MISSED true case (trade-off)
+wash_trade,WASHFP00,True,False,False,removed_in_v2,good: false positive removed
+wash_trade,WASHFP01,True,False,False,removed_in_v2,good: false positive removed
+wash_trade,WASHFP02,True,False,False,removed_in_v2,good: false positive removed
+wash_trade,WASHFP03,True,False,False,removed_in_v2,good: false positive removed
+wash_trade,WASHFP04,True,False,False,removed_in_v2,good: false positive removed
+wash_trade,WASHFP05,True,False,False,removed_in_v2,good: false positive removed
+wash_trade,WASHFP06,True,False,False,removed_in_v2,good: false positive removed
+wash_trade,WASHFP07,True,False,False,removed_in_v2,good: false positive removed
+wash_trade,WASHFP08,True,False,False,removed_in_v2,good: false positive removed
+wash_trade,WASHFP09,True,False,False,removed_in_v2,good: false positive removed
+wash_trade,WASHFP10,True,False,False,removed_in_v2,good: false positive removed
+wash_trade,WASHFP11,True,False,False,removed_in_v2,good: false positive removed
+wash_trade,WASHFP12,True,False,False,removed_in_v2,good: false positive removed
+spoofing,SPOOF00,True,True,True,unchanged,
+spoofing,SPOOF01,True,True,True,unchanged,
+spoofing,SPOOF02,True,True,True,unchanged,
+spoofing,SPOOF03,True,True,True,unchanged,
+spoofing,SPOOF04,True,True,True,unchanged,
+spoofing,SPOOF05,True,True,True,unchanged,
+spoofing,SPOOF06,True,True,True,unchanged,
+spoofing,SPOOF07,True,True,True,unchanged,
+spoofing,SPOOF08,True,True,True,unchanged,
+spoofing,SPOOF09,True,True,True,unchanged,
+spoofing,SPOOF10,True,True,True,unchanged,
+spoofing,SPOOF11,True,True,True,unchanged,
+spoofing,SPOOF12,True,True,True,unchanged,
+spoofing,SPOOF13,True,True,True,unchanged,
+spoofing,SPOOF14,True,True,True,unchanged,
+spoofing,SPOOF15,True,True,True,unchanged,
+spoofing,SPOOF16,True,True,True,unchanged,
+spoofing,SPOOF17,True,True,False,unchanged,
+spoofing,SPOOF18,True,True,False,unchanged,
+spoofing,SPOOF19,True,True,False,unchanged,
+spoofing,SPOOF20,True,True,False,unchanged,
+spoofing,SPOOF21,True,True,False,unchanged,
+wash_trade,WASH00,True,True,True,unchanged,
+wash_trade,WASH01,True,True,True,unchanged,
+wash_trade,WASH02,True,True,True,unchanged,
+wash_trade,WASH03,True,True,True,unchanged,
+wash_trade,WASH04,True,True,True,unchanged,
+wash_trade,WASH05,True,True,True,unchanged,
+wash_trade,WASH06,True,True,True,unchanged,
+wash_trade,WASH07,True,True,True,unchanged,
+wash_trade,WASH08,True,True,True,unchanged,
